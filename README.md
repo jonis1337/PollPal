@@ -1,0 +1,2 @@
+# PollPal
+Voting application
