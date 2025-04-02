@@ -1,5 +1,7 @@
 # PollPal
 PollPal is a simple, web-based app that lets users sign in or create an account, vote on polls with a simple Yes or No, and view the results after voting. Users can also create and delete polls with ease in a clean interface. Additionally, users can change their username.
+
+Visit https://pollpalvoter.web.app/ to try it out or follow usage if you want to spin it up locally.
 ## Usage
 
 1. Load the `database_setup.sql` into your database (you have to remove the old tables for this to work).
